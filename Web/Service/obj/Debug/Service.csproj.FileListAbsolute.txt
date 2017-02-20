@@ -1,0 +1,16 @@
+E:\testmvc\Web\Service\bin\Debug\Service.dll.config
+E:\testmvc\Web\Service\bin\Debug\Service.dll
+E:\testmvc\Web\Service\bin\Debug\Service.pdb
+E:\testmvc\Web\Service\bin\Debug\AutoMapper.dll
+E:\testmvc\Web\Service\bin\Debug\Core.dll
+E:\testmvc\Web\Service\bin\Debug\Data.dll
+E:\testmvc\Web\Service\bin\Debug\EntityFramework.dll
+E:\testmvc\Web\Service\bin\Debug\EntityFramework.SqlServer.dll
+E:\testmvc\Web\Service\bin\Debug\Core.pdb
+E:\testmvc\Web\Service\bin\Debug\Data.pdb
+E:\testmvc\Web\Service\bin\Debug\AutoMapper.xml
+E:\testmvc\Web\Service\bin\Debug\EntityFramework.xml
+E:\testmvc\Web\Service\bin\Debug\EntityFramework.SqlServer.xml
+E:\testmvc\Web\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+E:\testmvc\Web\Service\obj\Debug\Service.dll
+E:\testmvc\Web\Service\obj\Debug\Service.pdb
